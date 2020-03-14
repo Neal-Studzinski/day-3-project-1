@@ -1,4 +1,5 @@
 # day-3-project-1
+Neal Studzinski
 
 Read Learn CSS Layout http://learnlayout.com/
 
